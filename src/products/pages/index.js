@@ -1,0 +1,5 @@
+export * from './ProductsPage'
+export * from './TopsPage'
+export * from './SmartphonesPage'
+export * from './SunglassesPage'
+export * from './DetailViewPage'
